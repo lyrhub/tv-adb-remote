@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- TV outline: antennas, screen, stand -->
+    <path
+        android:pathData="M54,38 L40,24 M54,38 L68,24 M30,38 H78 V68 H30 Z M54,68 V76 M44,76 H64"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:fillColor="#00000000" />
+    <!-- Play triangle -->
+    <path
+        android:pathData="M50,46 L63,53 L50,60 Z"
+        android:fillColor="#FFFFFF" />
+</vector>
