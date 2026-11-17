@@ -54,6 +54,7 @@ import androidx.compose.ui.unit.dp
 import com.kosuke.tvadbremote.data.TvApp
 import com.kosuke.tvadbremote.vm.MainViewModel
 
+@Composable
 private fun NotConnected() {
     Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
         Text("先在「设备」页连接一台电视")
